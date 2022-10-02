@@ -1,1 +1,1 @@
-# Shopify App for Tax
+# Shopify App for Taxable income
